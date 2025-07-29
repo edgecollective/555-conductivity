@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "555-conductivity")(type "KiCad")(uri "${KIPRJMOD}/555-conductivity.kicad_sym")(options "")(descr ""))
+)
